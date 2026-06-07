@@ -51,7 +51,7 @@ Smart-Clinic-System/
 
 ⚙️ Setup Instructions
 1️⃣ Clone the project
-git clone https://github.com/your-username/smart-clinic-system.git
+git clone https://github.com/manjeet-ai-git/smart-clinic-system.git
 cd smart-clinic-system
 2️⃣ Install dependencies
 pip install -r requirements.txt
